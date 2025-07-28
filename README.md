@@ -1,2 +1,2 @@
-# Bolt Portfolio
+# Aniruddha Parthasarathy's Portfolio Site
 
