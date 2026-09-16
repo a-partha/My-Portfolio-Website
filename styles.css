@@ -132,7 +132,15 @@ body {
   font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: clamp(24px, 4vw, 28px);
-  margin-bottom: 8px;
+  margin-bottom: 0px;
+
+}
+
+.hero-name h4 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: clamp(16px, 4vw, 18px);
+  margin-bottom: 16px;
 
 }
 
